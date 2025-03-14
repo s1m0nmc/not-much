@@ -12,6 +12,7 @@ body, main {
   font-style: normal;
   font-size: .95em;
   font-weight: normal;
+  color: var(--font-color) !important;
 }
 
 ::selection {
