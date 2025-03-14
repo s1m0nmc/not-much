@@ -279,3 +279,8 @@ li > input[type=checkbox] {
 #TableOfContents > ul {
   list-style-type: '//  ';
 }
+
+.badge {
+  font-family: 'Red Hat Mono', serif !important;
+  font-weight: 600 !important;
+}
